@@ -37,6 +37,10 @@ body {
     width: 0;
 }
 
+.white-txt {
+    color: white;
+  }
+
 @keyframes typing {
     from {
         width: 0
@@ -127,6 +131,10 @@ body {
 
 .justify-content-center {
     justify-content: center;
+}
+
+.text-align-center {
+    text-align: center;
 }
 
 .middle {
